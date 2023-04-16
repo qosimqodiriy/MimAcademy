@@ -87,6 +87,10 @@ export default {
     baseURL: '/',
   },
 
+  server: {
+    port: 3000,
+  },
+
   vuetify: {
     customVariables: ['~/assets/styles/variables.scss'],
     theme: {
