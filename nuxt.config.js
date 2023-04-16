@@ -34,14 +34,14 @@ export default {
         property: 'description',
         content: "Samarqanddagi eng zo'r o'quv markaz",
       },
-      // {
-      //   property: 'og:image',
-      //   content: 'https://i.pinimg.com/originals/35/38/36/3538363f9be4aec0f2a3a899c76678f9.png',
-      // },
-      // {
-      //   property: 'image',
-      //   content: 'https://i.pinimg.com/originals/35/38/36/3538363f9be4aec0f2a3a899c76678f9.png',
-      // },
+      {
+        property: 'og:image',
+        content: 'https://admin.evo24.uz/MimSchool.png',
+      },
+      {
+        property: 'image',
+        content: 'https://admin.evo24.uz/MimSchool.png',
+      },
       {
         property: 'keywords',
         content: "o'quv markaz, it, it o'quv markaz, kurslar, o'quv kurslar, it o'quv kurslar",
